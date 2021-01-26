@@ -10,5 +10,5 @@ Show steps to improve
 
 
 
-![House statistics](https://raw.githubusercontent.com/alx-a/h-w/main/sammanfattning-waste-index.jpeg)
+![House statistics](https://raw.githubusercontent.com/alx-a/h-w/main/house-1.jpeg)
 ![QR code](https://raw.githubusercontent.com/alx-a/h-w/main/h-w.png)
