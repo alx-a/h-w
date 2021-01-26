@@ -1,6 +1,6 @@
 # Household Food Waste Impact Index
 
--  Welcome to the Stockholm Household Food Waste Index! Measure impact per buildning and find out about improvement measurements!
+-  Welcome to the Stockholm Household Food Waste Index! Measure impact per building and find out about improvement measurements!
 
 Show Address / Individual code
 
